@@ -1,3 +1,6 @@
+"core.quotepath=false"
+"i18n.commitencoding=utf-8"
+"i18n.logoutputencoding=utf-8"
 .DS_Store
 Kafka权威指南.pdf
 算法 第4版-谢路云 译ava描述完整版.pdf

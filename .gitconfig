@@ -1,0 +1,29 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	quotepath = false
+
+	ignorecase = true
+	precomposeunicode = true
+	compression = 3
+
+[remote "origin"]
+	url = 
+	fetch = 
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[i18n]
+	commitencoding = utf-8
+	logoutputencoding = utf-8
+[user]
+	email = 
+	name = 
+[http]
+	postBuffer = 1048576000
+	lowSpeedLimit = 0
+	lowSpeedTime = 999999
+[https]
+	postBuffer = 1048576000
